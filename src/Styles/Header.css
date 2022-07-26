@@ -1,3 +1,7 @@
+.Header {
+  text-align: center;
+}
+
 .Header h1 {
   font-size: 5rem;
 
@@ -8,5 +12,5 @@
   padding: 10px;
   border-radius: 10px;
   border: none;
-  background-color: rgb(255, 105, 105);
+  background-color: gray;
 }
