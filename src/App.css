@@ -1,8 +1,10 @@
 .Light {
   background: #f8f9fa;
   color: #252525;
+  margin-bottom: -20px;
 }
 .Dark {
   background: #252525;
   color: #fafafa;
+  margin-bottom: -20px;
 }
